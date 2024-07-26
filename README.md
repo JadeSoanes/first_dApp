@@ -27,7 +27,7 @@ cd helloworld-dapp
 
 ### Ensure you have the correct file structure
 It is important you have the correct file structure! Especially the placement of the .env file
-[Example File Structure]!(/file example)
+![Example File Structure](images/fileconfig.png)
 
 
 ### Note: keys!
@@ -39,8 +39,16 @@ Not included in this repo is the .env file in which I set the variables 'API_URL
 
 
 ## The result ❗
-The contract I ran in this project was successful, as evidenced by this little 'hello world' which can be found on the block explorer!
+The contract I ran in this project was successful, as evidenced by this little 'Hello World!' which can be found on the block explorer!
 
+**Screenshot 1: Block Explorer**
+
+!['Hello World!' shown as the contract on the block scanner](images/result1.png)
+
+
+
+**Screenshot 2: Response from terminal**
+![Confirmation of deployment from the terminal](images/result2.png)
 
 ## References & credit 🌟
 I completed the below tutorial from ethereum.org - thank you to that community for making this information ferely available.
