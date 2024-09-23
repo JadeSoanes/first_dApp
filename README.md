@@ -7,7 +7,7 @@ Creating a simple 'hello world' decentralised app (dApp) and deploying to the Et
 ## Features 📝
 - **Smart Contract:** A basic Solidity contract that stores and retrieves a "Hello World" message.
 - **Deployment:** Scripts for deploying the contract using Hardhat.
-- **Test Net:** Development done using teh Sepolia test network.
+- **Test Net:** Development done using the Sepolia test network.
 
 ## Installation 🧰
 
@@ -38,7 +38,7 @@ Not included in this repo is the .env file in which I set the variables 'API_URL
 [Ethereum Tutorial](https://ethereum.org/en/developers/tutorials/hello-world-smart-contract/)
 
 
-## The result ❗
+## The result - PART 1 ❗
 The contract I ran in this project was successful, as evidenced by this little 'Hello World!' which can be found on the block explorer!
 
 **Screenshot 1: Block Explorer**
@@ -50,10 +50,20 @@ The contract I ran in this project was successful, as evidenced by this little '
 **Screenshot 2: Response from terminal**
 ![Confirmation of deployment from the terminal](images/result2.png)
 
+
+## The result - PART 2 ❗
+The second part of the tutorial was interacting with the contract! In this part the message 'Hello World!' was updated.
+
+![The updated message](images/result3.png)
+
+
 ## References & credit 🌟
-I completed the below tutorial from ethereum.org - thank you to that community for making this information ferely available.
+I completed the below tutorial from ethereum.org - thank you to that community for making this information freely available.
 
 https://ethereum.org/en/developers/tutorials/hello-world-smart-contract/
+
+
+https://docs.alchemy.com/docs/interacting-with-a-smart-contract
 
 
 
