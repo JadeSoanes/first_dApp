@@ -27,7 +27,7 @@ cd helloworld-dapp
 
 ### Ensure you have the correct file structure
 It is important you have the correct file structure! Especially the placement of the .env file
-![Example File Structure](images/fileconfig.png)
+![Example File Structure](images/result4.png)
 
 
 ### Note: keys!
